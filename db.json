@@ -2,11 +2,10 @@
     "users": [
     {"id": 1, "name": "Pak", "email": "a@b.com", "role": "admin"},
     {"id": 2, "name": "Kim", "email": "d@e.org", "role": "user"}
-    ]
-}
-{
+    ],
+
     "posts": [
-    {"id": 1, "title": "First post", "UID": 1, "tags": ["intro","api"]}
+    {"id": 1, "title": "First post", "UID": 1, "tags": ["intro","api"]},
     {"id": 2, "title": "Second post", "tags": "api"}
     ]
 }
