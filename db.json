@@ -6,6 +6,6 @@
 
     "posts": [
     {"id": 1, "title": "First post", "UID": 1, "tags": ["intro","api"]},
-    {"id": 2, "title": "Second post", "tags": "api"}
+    {"id": 2, "title": "Second post", "tags": ["api"]}
     ]
 }
